@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/zmtheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmtheus&layout=compact&langs_count=7&theme=city_lights"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmtheus&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
  ## contact me
