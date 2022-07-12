@@ -1,15 +1,6 @@
 ### hi *~, i'm matheus 
 
-🔭 I’m currently working on development at <a style="text-decoration: none; color: #000;" href="https://stefanini.com/pt-br">Stefanini</a> and studying Analysis and Development of Systems at <a style="text-decoration: none; color: #000;" href="https://www.sptech.school/">BandTec</a>
-
-☄️ I’m currently learning Vue.js, .NET and Java.
-
-🛰️ Every day trying to learn a little about everything.
-
 📍 SP
-
-🌠 “Be clearly aware of the stars and infinity on high. Then life seems almost enchanted after all.” ― Vincent Van Gogh.
-
 
 ## GitHub stats
 
