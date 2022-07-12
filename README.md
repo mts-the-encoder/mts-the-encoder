@@ -1,6 +1,6 @@
 ### hi *~, i'm matheus 
 
-📍 SP
+- 📍 SP
 
 ## GitHub stats
 
