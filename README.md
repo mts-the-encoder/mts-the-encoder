@@ -18,7 +18,6 @@
 </div><br><br>
 
 ## Stack:<br><br>
-
 -   <b>Back-end</b>:<br>
 <div style="display: flex; justify-content: space-evenly;"><br> 
     <img "center" height="40" width="40" 
@@ -69,7 +68,7 @@
     <img align="center" height="40" width="40"
         src="https://www.pngrepo.com/png/353582/180/codepen-icon.png"/> 
     <img "center" height="40" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/> 
     <img align="center" height="40" width="40"
         src="https://www.pngrepo.com/png/354202/180/postman-icon.png"/> 
     <img align="center" height="40" width="40"
