@@ -1,6 +1,6 @@
 ## matheus
 <div style="display: flex; justify-content: space-evenly;">
-        <img align="right" height="250" 
+        <img align="right" height="200px" 
         src="https://thumbs.gfycat.com/ArcticPerkyAxolotl-size_restricted.gif"/> 
 </div> 
 
