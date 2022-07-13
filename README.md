@@ -19,71 +19,71 @@
 
 ## Stack:<br><br>
 -   <b>Back-end</b>:<br>
-<div style="display: flex; justify-content: space-evenly;"><br> 
-    <img "center" height="40" width="40" 
+<div style="display: flex; justify-content: space-evenly; align-items: center;"><br> 
+    <img "center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> 
-    <img "center" height="40" width="40" 
+    <img "center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img "center" height="40" width="40" 
+    <img "center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>  
 </div><br><br>
 
 
 -   <b>Database</b>:<br>
-<div style="display: flex; justify-content: space-evenly;"><br> 
-    <img "center" height="40" width="40" 
+<div style="display: flex; justify-content: space-evenly; align-items: center;"><br> 
+    <img "center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
-    <img "center" height="50" width="50" 
+    <img "center" height="50"
         src="https://www.pngrepo.com/png/303229/180/microsoft-sql-server-logo.png"/>  
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
 </div><br><br>   
 
 -   <b>Front-end</b>:<br><br>
-<div style="display: flex; justify-content: space-evenly;"><br>
-    <img "center" height="40" width="40" 
+<div style="display: flex; justify-content: space-evenly; align-items: center;"><br>
+    <img "center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
-    <img "center" height="40" width="40" 
+    <img "center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
-    <img align="center" height="40" width="40" 
+    <img align="center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
-    <img "center" height="40" width="40" 
+    <img "center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-    <img "center" height="40" width="40" 
+    <img "center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>     
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> 
 </div><br><br>
 
 -   <b>Techs/Tools</b>:<br>
-<div style="display: flex; justify-content: space-evenly;"><br> 
-    <img "center" height="40" width="40" 
+<div style="display: flex; justify-content: space-evenly; align-items: center;"><br> 
+    <img "center" height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> 
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://www.pngrepo.com/png/353443/180/aws.png"/> 
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> 
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://www.pngrepo.com/png/353582/180/codepen-icon.png"/> 
-    <img "center" height="40" width="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/> 
-    <img align="center" height="40" width="40"
+    <img "center" height="50" width="50" 
+        src="https://www.pngrepo.com/png/373553/180/docker.png"/> 
+    <img align="center" height="40"
         src="https://www.pngrepo.com/png/354202/180/postman-icon.png"/> 
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://www.pngrepo.com/png/353904/180/insomnia.png"/>  
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://www.svgrepo.com/show/354420/swagger.svg"/> 
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>  
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> 
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://www.pngrepo.com/png/373712/180/json.png"/> 
-    <img align="center" height="40" width="40"
+    <img align="center" height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/> 
 </div><br><br>  
 
