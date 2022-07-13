@@ -1,4 +1,4 @@
-## <b><h1>matheus</b></h1><br><br>
+## <b><h1>matheus</b></h1>
 
 <div style="display: flex; justify-content: space-evenly;">
     <div>
@@ -20,7 +20,7 @@
 ## Stack:<br><br>
 
 -   <b>Back-end</b>:<br><br>
-<div style="display: flex; justify-content: space-evenly; width: 200px;"><br> 
+<div style="display: flex; justify-content: space-evenly;"><br> 
     <img "center" height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
     <img align="center" height="40" width="40"
@@ -33,7 +33,7 @@
 
 
 -   <b>Database</b>:<br><br>
-<div style="display: flex; justify-content: space-evenly; width: 150px;"><br> 
+<div style="display: flex; justify-content: space-evenly;"><br> 
     <img "center" height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
     <img "center" height="50" width="50" 
@@ -43,7 +43,7 @@
 </div><br><br>   
 
 -   <b>Front-end</b>:<br><br>
-<div style="display: flex; justify-content: space-evenly; width: 350px;"><br>
+<div style="display: flex; justify-content: space-evenly;"><br>
     <img "center" height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
     <img "center" height="40" width="40" 
@@ -59,7 +59,7 @@
 </div><br><br>
 
 -   <b>Techs/Tools</b>:<br><br>
-<div style="display: flex; justify-content: space-evenly; width: 600px;"><br> 
+<div style="display: flex; justify-content: space-evenly;"><br> 
     <img "center" height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> 
     <img align="center" height="40" width="40"
