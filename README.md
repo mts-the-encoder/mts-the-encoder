@@ -1,5 +1,5 @@
-## Matheus
-- 📍 SP
+## matheus
+- SP
 
 <div align="right">
     <a href="https://www.linkedin.com/in/matheus-n-650764183" target="_blank"><img
