@@ -6,17 +6,17 @@
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;"><br> 
     <b>About me:</b>
-       <h3>SP</h3>
-       <h3>Systems Analysis and Development at <a href="https://www.sptech.school">BandTec Digital School</a></h3>
-       <h3>.NET developer at <a href="https://stefanini.com/pt-br">Stefanini Group</a></h3>
+       <h4>• SP</h4>
+       <h4>• Systems Analysis and Development at <a style="color: #C9C9C9;" href="https://www.sptech.school">BandTec Digital School</a></h4>
+       <h4>• .NET developer at <a style="color: #C9C9C9;" href="https://stefanini.com/pt-br">Stefanini Group</a></h4>
 </div>
 
 ##
             
 ## GitHub Stats
 <div>  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zmtheus&         show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="matheus github stats"/> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmtheus&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zmtheus&         show_icons=true&count_private=true&hide_border=true&title_color=C9C9C9&icon_color=C9C9C9&text_color=C9C9C9&bg_color=0d1117" alt="matheus github stats"/> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmtheus&layout=compact&hide_border=true&title_color=C9C9C9&text_color=C9C9C9&bg_color=0d1117"/>
 </div><br><br>
 
 ## 
