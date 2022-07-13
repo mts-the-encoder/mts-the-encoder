@@ -15,8 +15,11 @@
             
 ## GitHub Stats
 <div>  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=zmtheus&         show_icons=true&count_private=true&hide_border=true&title_color=C9C9C9&icon_color=C9C9C9&text_color=C9C9C9&bg_color=0d1117" alt="matheus github stats"/> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmtheus&layout=compact&hide_border=true&title_color=C9C9C9&text_color=C9C9C9&bg_color=0d1117"/>
+        <div align="center">
+          <a href="https://github.com/zmtheus">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmtheus&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&title_color=c9c9c9&icon_color=c9c9c9&text_color=c9c9c9&bg_color=0d1117"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmtheus&layout=compact&hide_border=true&title_color=c9c9c9&text_color=c9c9c9&bg_color=0d1117""/>
+        </div>
 </div><br><br>
 
 ## 
