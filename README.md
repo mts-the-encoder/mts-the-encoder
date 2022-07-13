@@ -19,7 +19,7 @@
 
 ## Stack:<br><br>
 
--   <b>Back-end</b>:<br><br>
+-   <b>Back-end</b>:<br>
 <div style="display: flex; justify-content: space-evenly;"><br> 
     <img "center" height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
@@ -32,7 +32,7 @@
 </div><br><br>
 
 
--   <b>Database</b>:<br><br>
+-   <b>Database</b>:<br>
 <div style="display: flex; justify-content: space-evenly;"><br> 
     <img "center" height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
@@ -58,7 +58,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> 
 </div><br><br>
 
--   <b>Techs/Tools</b>:<br><br>
+-   <b>Techs/Tools</b>:<br>
 <div style="display: flex; justify-content: space-evenly;"><br> 
     <img "center" height="40" width="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> 
