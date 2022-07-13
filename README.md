@@ -9,7 +9,9 @@
        <h3>SP</h3>
        <h3>Systems Analysis and Development at <a href="https://www.sptech.school">BandTec Digital School</a></h3>
        <h3>.NET developer at <a href="https://stefanini.com/pt-br">Stefanini Group</a></h3>
-</div><br><br>    
+</div>
+
+##
             
 ## GitHub Stats
 <div>  
@@ -17,7 +19,9 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmtheus&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div><br><br>
 
-## Stack:<br><br>
+## 
+
+##   Stack:<br><br>
 -   <b>Back-end</b>:<br>
 <div style="display: flex; justify-content: space-evenly; align-items: center;"><br> 
     <img height="40" 
@@ -28,7 +32,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>  
-</div><br><br>
+</div>
+
+##
 
 -   <b>Database</b>:<br>
 <div style="display: flex; justify-content: space-evenly; align-items: center;"><br> 
@@ -38,7 +44,9 @@
         src="https://www.pngrepo.com/png/303229/180/microsoft-sql-server-logo.png"/>  
     <img align height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
-</div><br><br>   
+</div>
+
+##
 
 -   <b>Front-end</b>:<br><br>
 <div style="display: flex; justify-content: space-evenly; align-items: center;"><br>
@@ -54,7 +62,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>     
     <img align height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> 
-</div><br><br>
+</div>
+
+##
 
 -   <b>Techs/Tools</b>:<br>
 <div style="display: flex; justify-content: space-evenly; align-items: center;"><br> 
@@ -84,8 +94,9 @@
         src="https://www.pngrepo.com/png/373712/180/json.png"/> 
     <img align height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/> 
-</div><br><br>  
+</div>
 
+##
 
 <div align="right">
     <a href="https://www.linkedin.com/in/matheus-n-650764183" target="_blank"><img
