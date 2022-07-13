@@ -8,7 +8,7 @@
     <b>About me:</b>
        <h3>• SP</h3>
        <h3>• Systems Analysis and Development at <a href="https://www.sptech.school">BandTec Digital School</a></h3>
-       <h3>• .NET developer at <a href="https://stefanini.com/pt-br">Stefanini Group</a></h3>
+       <h3>• .NET developer at   <a href="https://stefanini.com/pt-br">Stefanini Group</a></h3>
 </div><br><br>    
             
 ## GitHub Stats
