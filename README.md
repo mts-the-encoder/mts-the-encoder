@@ -16,9 +16,9 @@
 ## GitHub Stats
 <div>  
         <div align="center">
-                <a href="https://github.com/zmtheus">
-                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zmtheus&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=c9c9c9&icon_color=c9c9c9&text_color=c9c9c9&bg_color=0d1117"/>
-                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmtheus&layout=compact&langs_count=20&hide_border=true&title_color=c9c9c9&text_color=c9c9c9&bg_color=0d1117""/>
+                <a href="https://github.com/mts-the-encoder">
+                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mts-the-encoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=c9c9c9&icon_color=c9c9c9&text_color=c9c9c9&bg_color=0d1117"/>
+                <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mts-the-encoder&layout=compact&langs_count=20&hide_border=true&title_color=c9c9c9&text_color=c9c9c9&bg_color=0d1117""/>
         </div>
 </div><br><br>
 
