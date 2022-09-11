@@ -6,6 +6,9 @@
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;"><br> 
        <h4>• SP</h4>
+        <h4>-</h4>
+        <h4>-</h4>
+        <h4>-</h4>
 </div>
 
 ##
@@ -43,7 +46,10 @@
     <img height="50"
         src="https://www.pngrepo.com/png/303229/180/microsoft-sql-server-logo.png"/>  
     <img align height="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+    <img align height="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
+                                                                                             
 </div>
 
 ##
