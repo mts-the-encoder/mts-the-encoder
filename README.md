@@ -5,10 +5,7 @@
 </div> 
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;"><br> 
-    <b>About me:</b>
        <h4>• SP</h4>
-       <h4>• Systems Analysis and Development at <a style="color: #C9C9C9;" href="https://www.sptech.school">BandTec Digital School</a></h4>
-       <h4>• .NET developer at <a style="color: #C9C9C9;" href="https://stefanini.com/pt-br">Stefanini Group</a></h4>
 </div>
 
 ##
@@ -65,6 +62,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>     
     <img align height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> 
+    <img align height="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
 </div>
 
 ##
@@ -88,11 +87,13 @@
     <img align height="40"
         src="https://www.svgrepo.com/show/354420/swagger.svg"/> 
     <img align height="40"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>  
+        src="https://www.pngrepo.com/png/353906/180/intellij-idea.png"/>  
     <img align height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
     <img align height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> 
+    <img align height="40"
+        src="https://soft.ware.pl/images/jetbrains/rider_logos/logo.png"/> 
     <img align height="40"
         src="https://www.pngrepo.com/png/373712/180/json.png"/> 
     <img align height="40"
