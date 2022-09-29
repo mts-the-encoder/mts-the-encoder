@@ -61,7 +61,9 @@
     <img height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
     <img align height="40" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>     
+    <img align height="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
     <img height="40" 
@@ -70,6 +72,8 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> 
     <img align height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
+    <img align height="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
 
 ##
@@ -79,13 +83,11 @@
     <img height="40" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> 
     <img align height="40"
-        src="https://www.pngrepo.com/png/353443/180/aws.png"/> 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align height="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> 
     <img align height="40"
         src="https://www.pngrepo.com/png/353582/180/codepen-icon.png"/> 
-    <img height="50" width="50" 
-        src="https://www.pngrepo.com/png/373553/180/docker.png"/> 
     <img align height="40"
         src="https://www.pngrepo.com/png/354202/180/postman-icon.png"/> 
     <img align height="40"
