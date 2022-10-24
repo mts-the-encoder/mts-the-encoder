@@ -110,7 +110,7 @@
     <a href="https://www.linkedin.com/in/matheus-n-650764183" target="_blank"><img
             src="https://www.pngrepo.com/png/299433/180/linkedin.png"
             target="_blank" height="60"></img></a>
-    <a href="https://discord.com/channels/@me/1034199390480506881" target="_blank"><img
+    <a href="https://discord.com/users/534038662258622505" target="_blank"><img
             src="https://www.pngrepo.com/png/271181/180/discord.png"
             target="_blank" height="60"></img></a>
     <a href="mailto:zmatheusnds@gmail.com" target="_blank"><img
