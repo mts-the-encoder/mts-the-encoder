@@ -20,7 +20,7 @@
 <h4></h4>
 </div>
 
-## GitHub Stats
+## Stats
 
 <div>
     <div align="center">
