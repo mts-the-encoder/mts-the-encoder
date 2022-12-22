@@ -38,10 +38,6 @@
     <p>• Database</p>
     <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img height="30" src="https://www.pngrepo.com/png/303229/180/microsoft-sql-server-logo.png" />
-    <img align height="25"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align height="25"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
 ##
