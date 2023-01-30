@@ -27,8 +27,8 @@
         <a href="https://github.com/mts-the-encoder">
             <img height="180em"
                  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mts-the-encoder&theme=github_dark" />
-            <img height="180em"
-                src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mts-the-encoder&layout=compact&langs_count=20&hide_border=true&title_color=c9c9c9&text_color=c9c9c9&bg_color=0d1117""/>
+            <img height="180em" 
+                src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mts-the-encoder&layout=compact&langs_count=20&hide_border=false&border_color=333&title_color=c9c9c9&text_color=c9c9c9&bg_color=0d1117&"/>
     </div>
 </div><br>
 
