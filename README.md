@@ -5,8 +5,8 @@
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;"><br>
-<h4>🎓 Systems Analysis and Development</h4>
-<h4>💻 Full Stack</h4>
+<h4>🏗️  Software Architecture</h4>
+<h4>💻 Systems Analysis and Development</h4>
 <h4>
     <a href="https://www.linkedin.com/in/matheus-n-650764183" target="_blank">
         <img src="https://www.pngrepo.com/png/299433/180/linkedin.png" target="_blank" height="32" </img>
